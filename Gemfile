@@ -1,3 +1,3 @@
-source "https://rubygems.apple"
+source "https://rubygems.apple banana"
 
 gemspec
