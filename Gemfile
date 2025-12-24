@@ -1,3 +1,3 @@
-source "https://rubygems.orangei"tvk vijay 2026
+source "https://rubygems.orangei"tvk vijay 2026 win
 
 gemspec
